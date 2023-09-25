@@ -1,4 +1,4 @@
-# Chapter 1
+# Hoofdstuk 1 Oefenen
 
 ```plantuml
 @startuml bert_and_ernie
@@ -9,6 +9,7 @@ Bert->Ernie : Hey Ernie
 
 Matthijs->Timon : Hey keal
 Tim->Mika : Hey keal
+
 
 
 @enduml
