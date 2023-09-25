@@ -3,7 +3,7 @@
 ```plantuml
 @startuml bert_and_ernie
 
-Ernie->Bert : Hey Bert
+Ernie->Bert : Hey Pils
 Bert->Ernie : Hey Ernie
 
 @enduml
