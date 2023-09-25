@@ -1,6 +1,6 @@
 @startuml bert_and_ernie
 
 Ernie->Bert : Hey Bert
-Bert->Ernie : Hallo Ernie
+Bert->Ernie : Hey1 Ernie
 
 @enduml
