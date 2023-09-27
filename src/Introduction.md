@@ -97,13 +97,13 @@ component Valve_assembly {
     conveyor -> placement
     conveyor --> "conveyor\npower"
 
-    [box]
-    () shape -- box
+    [ring]
+    () shape -- ring
     
     [gripper]
     gripper -l-> shape
     
-    box --> "box\nposition"
+    ring --> "ring\nposition"
     gripper --> "end\neffector"
 }
 
