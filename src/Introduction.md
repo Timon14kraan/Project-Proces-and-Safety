@@ -9,7 +9,7 @@ Bert->Ernie : Hey Ernie
 
 Matthijs->Timon : Hey keal zhuipnnn
 Tim->Mika : Hey keal
-Tim-> Michiel : Beste Maatjes
+Mika-> Michiel :  Wij zijn beste Maatjes
 
 
 
