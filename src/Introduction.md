@@ -62,9 +62,8 @@ cabinet -r-> energy
 
 @enduml
 ```
-
 ```plantuml
-@startuml pickup_parcel_from_coveyor
+@startuml Process_and_Safety
 skinparam backgroundColor transparent
 left to right direction
 'skinparam linetype ortho
@@ -118,3 +117,4 @@ cabinet -r-> energy
 
 @enduml
 ```
+
