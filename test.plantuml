@@ -1,6 +1,0 @@
-@startuml bert_and_ernie
-
-Matthijs->Bert : Hey Bert
-Bert->Ernie : Hey Ernie hoi
-
-@enduml
