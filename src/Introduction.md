@@ -85,17 +85,17 @@ component Valve_assembly {
 
     [cabinet]
     () "robot\npower" -- cabinet
-    () "conveyor\npower" -- cabinet
+    () "storage\npower" -- cabinet
    
     cabinet -u-> placement
     robot --> "robot\npower"
     cabinet -r-> output_0
     
-    [conveyor]
-    () "sensor\nposition" -- conveyor
-    () "ring\nposition" -- conveyor
-    conveyor -> placement
-    conveyor --> "conveyor\npower"
+    [storage]
+    () "sensor\nposition" -- storage
+    () "ring\nposition" -- storage
+    storage -> placement
+    storage --> "storage\npower"
 
     [ring]
     () shape -- ring
