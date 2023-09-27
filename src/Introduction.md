@@ -68,7 +68,7 @@ skinparam backgroundColor transparent
 left to right direction
 'skinparam linetype ortho
 
-component box_pickup_application {
+component Valve_assembly {
     
     [frame]
     () placement -u- frame
