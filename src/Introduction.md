@@ -71,7 +71,7 @@ left to right direction
 component Valve_assembly {
     
     [frame]
-    () assemble place -u- frame
+    () assemble\nplace -u- frame
     [robot]
     () input_0 -- robot
     () output_0 -- robot
@@ -81,20 +81,20 @@ component Valve_assembly {
     sensor --> input_0 : connected
     sensor --> "sensor\nposition"
     
-    robot -> assemble place
+    robot -> assemble\nplace
 
     [cabinet]
     () "robot\npower" -- cabinet
     () "storage\npower" -- cabinet
    
-    cabinet -u-> assemble place
+    cabinet -u-> assemble\nplace
     robot --> "robot\npower"
     cabinet -r-> output_0
     
     [storage]
     () "sensor\nposition" -- storage
     () "ring\nposition" -- storage
-    storage -> assemble place
+    storage -> assemble\nplace
     storage --> "storage\npower"
 
     [ring]
