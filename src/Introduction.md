@@ -93,7 +93,7 @@ component Valve_assembly {
     
     [conveyor]
     () "sensor\nposition" -- conveyor
-    () "box\nposition" -- conveyor
+    () "ring\nposition" -- conveyor
     conveyor -> placement
     conveyor --> "conveyor\npower"
 
