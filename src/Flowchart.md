@@ -1,5 +1,5 @@
 ```plantuml
 @startuml
-A -> B
+A --> B
 
 @enduml
