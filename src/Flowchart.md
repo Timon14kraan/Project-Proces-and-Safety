@@ -1,5 +1,13 @@
 ```plantuml
 @startuml
-A --> B
+start
+
+if (ready?) then (yes)
+  :move;
+else (no)
+  :stay still;
+endif
+
+stop
 
 @enduml
