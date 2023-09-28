@@ -51,11 +51,11 @@ component Valve_assembly {
 
 [building]
 
-() energy -l- building
+() Power -l- building
 () location -d- building
 
 frame --> location
-cabinet -r-> energy
+cabinet -r-> Power
 
 @enduml
 ```
