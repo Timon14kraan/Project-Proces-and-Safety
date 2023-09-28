@@ -1,11 +1,11 @@
 ```plantuml
 @startuml
 start
-
+:start up robot;
 if (ready?) then (yes)
   :move;
 else (no)
-  :stay still;
+  :start up robot;
 endif
 
 stop
