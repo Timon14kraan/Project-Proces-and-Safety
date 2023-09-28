@@ -1,1 +1,5 @@
-hoi
+```plantuml
+@startuml
+A --> B;
+
+@enduml
