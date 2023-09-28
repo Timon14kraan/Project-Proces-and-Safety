@@ -1,12 +1,12 @@
 ```plantuml
 @startuml
 start
-:start up robot;
-if (ready?) then (yes)
-  :move;
-else (no)
-  :start up robot;
-endif
+
+repeat: start up robot;
+    :wait 20 seconds;
+repeat while (ready?) is (no)
+->yes;
+    :start moving;
 
 stop
 
