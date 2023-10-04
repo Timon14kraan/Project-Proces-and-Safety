@@ -20,7 +20,7 @@ endif
     :Grab ring;
     :place ring on top of the bolt;
 if (ring misplaced?) then (yes)
-    #pink error:
+    #pink error;
     kil
 endif
 -> no
