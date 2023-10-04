@@ -24,27 +24,7 @@ if (ring misplaced?) then (yes)
     kil
 endif
 -> no
-    :Go back to home position;
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    :Go back to home position;    
     :Grab the middle part by the hexagon;
     :Place middle part on top of the cap;
 repeat
