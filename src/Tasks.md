@@ -6,10 +6,14 @@ Onderstaand staan alle taken die tijdens dit project uitgevoerd moeten worden.
 @startuml
 
 object Organization {
-  <#lightblue,#black>|=  organizationNo  |=  name  |=  address  |
-  <#white>|  OS07  |  Sphereways  | 22 Rabbit Rd, London |
-  <#white>|  OO7  |  Orco  | 16 Adam St, Nuremberg |
-  <#white>|  OC11  |  Cruxolutions  | 163 Olga St, Budapest |
+  <#lightblue,#black>|=  Tasks to do:  |=  Ready?  |
+  <#white>|  Investigate part specifications | No |
+  <#white>|  Investigate plc specifications | No |
+  <#white>|  Investigate how plc can be used  | No |
+  <#white>|  Drawing parts Solidworks | No |
+  <#white>|  Figuring out which sensors we need | No |
+  <#white>|  Drawing electrical drawings Eplan | No |
+  <#white>|  Do a risk assessment | No |
 }
 
 @endulm
