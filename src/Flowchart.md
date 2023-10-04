@@ -21,7 +21,7 @@ endif
     :place ring on top of the bolt;
 if (ring misplaced?) then (yes)
     #pink error;
-    kil
+    kill
 endif
 -> no
     :Go back to home position;    
