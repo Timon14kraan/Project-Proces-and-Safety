@@ -32,8 +32,6 @@ repeat
 repeat while (rotated 2 times?) is (no)
 -> yes
     :lift the middle part out of the fastener;
-
-
 stop
 
 @enduml
