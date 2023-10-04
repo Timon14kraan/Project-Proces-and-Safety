@@ -1,12 +1,11 @@
 ```plantuml
 @startuml
 start
+    :Grab cap;
+    :Place cap in the fastener;
+    :Grab the middle part by the hexagon;
+    :Place middle part ontop of the cap;
 
-repeat: start up robot;
-    :wait 20 seconds;
-repeat while (ready?) is (no)
-->yes;
-    :start moving;
 
 stop
 
