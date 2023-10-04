@@ -8,14 +8,8 @@ if (cap misplaced?) then (yes)
     kill
 endif
 -> no
-    :Go back to home position;
-    :Grab bolt;
-    :Place bolt in the bolt fastener;
-if (bolt misplaced?) then (yes)
-    #pink error;
-    kill
-endif
--> no
+
+stop
 
 
 @enduml
