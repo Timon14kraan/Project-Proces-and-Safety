@@ -1,7 +1,8 @@
 # Tasks
 
-Onderstaand staan alle taken die tijdens dit project uitgevoerd moeten worden. 
+Onderstaand staan alle taken die tijdens dit project uitgevoerd moeten worden.
 
+```plantuml
 @startuml
 
 object Organization {
@@ -12,3 +13,4 @@ object Organization {
 }
 
 @endulm
+```
