@@ -5,7 +5,7 @@ Onderstaand staan alle taken die tijdens dit project uitgevoerd moeten worden.
 ```plantuml
 @startuml
 
-object Organization {
+object Projecttasks {
   <#lightblue,#black>|=  Tasks to do:  |=  Ready?  |
   <#white>|  Investigate part specifications | No |
   <#white>|  Investigate plc specifications | No |
