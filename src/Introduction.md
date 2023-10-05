@@ -59,6 +59,7 @@ frame --> location
 cabinet -r-> Power
 
 @enduml
+
 ```
 ```plantuml
 @startuml Process_and_Safety
@@ -66,36 +67,35 @@ skinparam backgroundColor transparent
 left to right direction
 'skinparam linetype ortho
 
-component Construction_valve {
+component Structure_of_the_valve {
     
     [Ring]
-    () "concentric outside 10mm" -- Ring
-    () "thickness" -- Ring
+    () "concentric outside 17.5mm" -- Ring
+    () "thickness 6.8mm" -- Ring
 
-    [Nut]
-    () "screw thread m10" -- Nut
-    Nut --> "thickness"
+    [Nut_m20]
+    () "screw thread m20" -- Nut_m20
+    Nut_m20 --> "thickness 6.8mm"
 
-    [cap]
-    () "fine thread m12" -- cap
+    [Plunger]
+    () "fine thread m20" -- Plunger
 
     [tube]
-    () "concentric outside 20mm" -- tube
+    () "concentric outside 21.3mm" -- tube
     () "concentric inside 20mm" -- tube
 
-    [Nut2]
-    () "screw thread m20" -- Nut2
-     Nut2 --> "concentric inside 20mm"
-
+    [Nut_m26]
+    () "screw thread m26x1.5" -- Nut_26
+     Nut_26 --> "concentric inside 20mm"
 
     [House]
-    House --> "concentric outside 10mm"
-    House --> "screw thread m10"
-    House --> "concentric outside 20mm"
+    House --> "concentric outside 17.5mm"
     House --> "screw thread m20"
-    House --> "fine thread m12"
-    
+    House --> "concentric outside 21.3mm"
+    House --> "screw thread m26x1.5"
+    House --> "fine thread m20"
 }
 
 @enduml
 ```
+
