@@ -16,13 +16,34 @@ object Projecttasks {
   <#white>|  Do a risk assessment | No |
 }
 
-object Week 1 and 2 {
+object Week1 {
   <#lightblue,#black>|=  Tasks:  |=  Who?  |
-  <#white>| Introduction | Timon Matthijs Tim Mika|
+  <#white>| Introduction | Timon,Tim,Matthijs,Mika|
 }
 
-object Week 3 {
+object Week2 {
   <#lightblue,#black>|=  Tasks:  |=  Who?  |
+  <#white>| Introduction | Timon,Tim,Matthijs,Mika|
+}
+
+object Week3 {
+  <#lightblue,#black>|=  Tasks:  |=  Who?  |
+  <#white>| Starting a git repository | Timon|
+  <#white>| Getting information on the process | Tim, Matthijs, Mika|
+}
+
+object Week4 {
+  <#lightblue,#black>|=  Tasks:  |=  Who?  |
+  <#white>| Class diagram valve_assembly| Timon|
+  <#white>| Solidworks models| Tim, Matthijs|
+  <#white>| Flowchart| Mika|
+}
+
+object Week5 {
+  <#lightblue,#black>|=  Tasks:  |=  Who?  |
+  <#white>| class diagram structure_of_valve | Timon|
+  <#white>| Solidworks models| Tim, Matthijs|
+  <#white>| flowchart| Mika|
 }
 
 @endulm
