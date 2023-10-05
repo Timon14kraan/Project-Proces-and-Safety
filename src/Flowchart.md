@@ -56,7 +56,7 @@ repeat while (rotated 5 times?) is (no)
     :lift the middle part out of the bolt fastener;
     :Go to home position;
     :Rotate middle part -90 degrees in the x-axis;
-    :Place middle part on top of the nut
+    :Place middle part on top of the nut;
 repeat  :rotate fastener 360 degrees;
 repeat while (rotated 2 times?) is (no)
 ->yes;
