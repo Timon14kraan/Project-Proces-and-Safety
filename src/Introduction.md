@@ -66,13 +66,32 @@ skinparam backgroundColor transparent
 left to right direction
 'skinparam linetype ortho
 
-component Valve_assembly {
+component Construction valve {
     
     [Ring]
-    () "concentric" -- Ring
+    () "concentric outside 10mm" -- Ring
+    () "thickness" -- Ring
+
+    [Nut]
+    () "screw thread m10" -- Nut
+    Nut --> "thickness"
+
+    [cap]
+    () "fine thread m10" -- cap
+
+    [metal tube]
+    () "concentric outside 20 mm" -- metal tube
+    () "concentric inside 20 mm" -- metal tube
+
+    [Nut2]
+    () "screw thread m20" -- Nut
+     Nut --> "concentric inside 20 mm"
 
     [House]
-    House --> "concentric"
+    House --> "concentric outside 10mm"
+    House --> "screw thread m10"
+    House --> "concentric outside 20mm"
+    House --> "srew thread m20"
     
 }
 
