@@ -85,7 +85,7 @@ component Construction_valve {
 
     [Nut2]
     () "screw thread m20" -- Nut2
-     Nut2 --> "concentric inside 20 mm"
+     Nut2 --> "concentric inside 20mm"
 
 
     [House]
