@@ -77,7 +77,7 @@ component Construction_valve {
     Nut --> "thickness"
 
     [cap]
-    () "fine thread m10" -- cap
+    () "fine thread m12" -- cap
 
     [tube]
     () "concentric outside 20 mm" -- tube
@@ -92,7 +92,8 @@ component Construction_valve {
     House --> "concentric outside 10mm"
     House --> "screw thread m10"
     House --> "concentric outside 20mm"
-    House --> "srew thread m20"
+    House --> "screw thread m20"
+    House --> "fine thread m12"
     
 }
 
