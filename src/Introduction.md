@@ -80,8 +80,8 @@ component Construction_valve {
     () "fine thread m12" -- cap
 
     [tube]
-    () "concentric outside 20 mm" -- tube
-    () "concentric inside 20 mm" -- tube
+    () "concentric outside 20mm" -- tube
+    () "concentric inside 20mm" -- tube
 
     [Nut2]
     () "screw thread m20" -- Nut2
