@@ -79,9 +79,9 @@ component Construction valve {
     [cap]
     () "fine thread m10" -- cap
 
-    [metal tube]
-    () "concentric outside 20 mm" -- metal tube
-    () "concentric inside 20 mm" -- metal tube
+    [tube]
+    () "concentric outside 20 mm" -- tube
+    () "concentric inside 20 mm" -- tube
 
     [Nut2]
     () "screw thread m20" -- Nut
