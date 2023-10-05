@@ -70,7 +70,7 @@ component Construction valve {
     
     [Ring]
     () "concentric outside 10mm" -- Ring
-    () "thickness" -- Ring
+
 
 
     [House]
@@ -82,6 +82,8 @@ component Construction valve {
 @enduml
 ```
 
+    () "thickness" -- Ring
+    
     [Nut]
     () "screw thread m10" -- Nut
     Nut --> "thickness"
