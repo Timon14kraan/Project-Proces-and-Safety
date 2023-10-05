@@ -74,7 +74,7 @@ component Construction valve {
 
 
     [House]
-    House --> "concentric outside 10mm"
+    House --> "concentric\noutside\n10mm"
 
     
 }
@@ -83,7 +83,7 @@ component Construction valve {
 ```
 
     () "thickness" -- Ring
-    
+
     [Nut]
     () "screw thread m10" -- Nut
     Nut --> "thickness"
