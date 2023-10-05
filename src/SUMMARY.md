@@ -1,5 +1,5 @@
 # Summary
 
-- [Construction](./Construction.md)
+- [Structure](Structure.md)
 - [Tasks](./Tasks.md)
 - [Flowchart](./Flowchart.md)
