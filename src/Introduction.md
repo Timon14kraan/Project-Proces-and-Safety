@@ -74,7 +74,7 @@ component Construction_valve {
 
 
     [House]
-    House --> "concentric\noutside\n10mm"
+    House --> "concentric outside 10mm"
 
     
 }
