@@ -39,6 +39,88 @@ component Structure_of_the_valve {
 
 @enduml
 ```
+The second diagram shows the setup. All important factors are incorporated and linked together. Based on this diagram, components can be found and the system can be further built up.
+
+```plantuml
+@startuml Process_and_Safety
+skinparam backgroundColor transparent
+left to right direction
+'skinparam linetype ortho
+
+component Valve_assembly_setup {
+    
+    [Storage]
+    () "pickup\nposition\nring" -- Storage
+    () "pickup\nposition\nplunger" -- Storage
+    () "pickup\nposition\ncap" -- Storage
+    () "pickup\nposition\nhouse" -- Storage
+    () "pickup\nposition\nsmall nut" -- Storage
+    () "pickup\nposition\nbig nut" -- Storage 
+    () "pickup\nposition\nassembled valve" -- Storage     
+    Storage --> "position\nstorage"
+
+    [Ring]
+    Ring --> "pickup\nposition\nring"
+    
+    [Plunger]
+    Plunger --> "pickup\nposition\nplunger"
+
+    [Cap]
+    Cap --> "pickup\nposition\ncap"
+    Cap --> "holder cap"
+
+    [House]
+    House --> "pickup\nposition\nhouse"
+
+    [Small_nut]
+    Small_nut --> "pickup\nposition\nsmall nut"
+    Small_nut --> "holder small nut"
+
+    [Big_nut]
+    Big_nut --> "pickup\nposition\nbig nut"
+    Big_nut --> "holder big nut"
+
+    [Assembled_valve]
+    Assembled_valve --> "pickup\nposition\nassembled valve"
+
+    [Robot]
+    () "end\neffector" -- Robot
+    Robot --> "position\nrobot"
+
+    [Gripper]
+    Gripper --> "pickup\nposition\nring"
+    Gripper --> "pickup\nposition\nplunger"
+    Gripper --> "pickup\nposition\ncap"
+    Gripper --> "pickup\nposition\nhouse"
+    Gripper --> "pickup\nposition\nsmall nut"
+    Gripper --> "pickup\nposition\nbig nut"
+    Gripper --> "end\neffector"
+
+    [Frame]
+    () "position\nrobot" -- Frame
+    () "position\nstorage" -- Frame
+    () "position\nassembly station cap" -- Frame
+    () "position\nassembly station small nut" -- Frame
+    () "position\nassembly station big nut" -- Frame
+
+    [assembly_station_cap]
+    () "holder cap" -- assembly_station_cap
+    assembly_station_cap --> "position\nassembly station cap"
+    
+    [assembly_station_small_nut]
+    () "holder small nut" -- assembly_station_small_nut
+    assembly_station_small_nut --> "position\nassembly station small nut"
+    
+    [assembly_station_big_nut]
+    () "holder big nut" -- assembly_station_big_nut
+    assembly_station_big_nut --> "position\nassembly station big nut"
+
+
+}
+
+@enduml
+
+```
 
 ```plantuml
 @startuml Process_and_Safety
