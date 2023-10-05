@@ -14,6 +14,7 @@ component Valve_assembly {
     
     [frame]
     () assemble_place -u- frame
+
     [robot]
     () input_0 -- robot
     () output_0 -- robot
@@ -59,5 +60,22 @@ cabinet -r-> Power
 
 @enduml
 ```
+```plantuml
+@startuml Process_and_Safety
+skinparam backgroundColor transparent
+left to right direction
+'skinparam linetype ortho
 
+component Valve_assembly {
+    
+    [Ring]
+    () "concentric" -- Ring
+
+    [House]
+    House --> "concentric"
+    
+}
+
+@enduml
+```
 
