@@ -72,6 +72,16 @@ component Construction valve {
     () "concentric outside 10mm" -- Ring
     () "thickness" -- Ring
 
+
+    [House]
+    House --> "concentric outside 10mm"
+
+    
+}
+
+@enduml
+```
+
     [Nut]
     () "screw thread m10" -- Nut
     Nut --> "thickness"
@@ -87,14 +97,7 @@ component Construction valve {
     () "screw thread m20" -- Nut
      Nut --> "concentric inside 20 mm"
 
-    [House]
-    House --> "concentric outside 10mm"
+
     House --> "screw thread m10"
     House --> "concentric outside 20mm"
     House --> "srew thread m20"
-    
-}
-
-@enduml
-```
-
