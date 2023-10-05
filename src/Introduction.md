@@ -60,13 +60,14 @@ cabinet -r-> Power
 
 @enduml
 ```
+
 ```plantuml
 @startuml Process_and_Safety
 skinparam backgroundColor transparent
 left to right direction
 'skinparam linetype ortho
 
-component Construction valve {
+component Construction_valve {
     
     [Ring]
     () "concentric" -- Ring
