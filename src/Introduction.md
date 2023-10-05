@@ -1,6 +1,6 @@
-# Introduction
+# Constructions
 
-This is the folder for the Process and Safety project. This project is done by Mika Haarhuis, Tim Scholte Lubberink, Matthijs Seinhorst and Timon Kraan.
+This is the folder for the Process and Safety project. This project is done by Mika Haarhuis, Tim Scholte Lubberink, Matthijs Seinhorst and Timon Kraan. (verder uitleg toevoegen)
 
 To give you an idea of our project, a state diagram has been created below:
 
@@ -70,30 +70,30 @@ left to right direction
 component Structure_of_the_valve {
     
     [Ring]
-    () "concentric outside 17.5mm" -- Ring
-    () "thickness 6.8mm" -- Ring
+    () "concentric\noutside\n17mm" -- Ring
+    () "thickness\n6.8mm" -- Ring
 
-    [Nut_m20]
-    () "screw thread m20" -- Nut_m20
-    Nut_m20 --> "thickness 6.8mm"
+    [Small_nut]
+    () "screw\nthread\nm20" -- Small_nut
+    Small_nut --> "thickness\n6.8mm"
+
+    [Cap]
+    () "fine\nthread\nm20" -- Cap
 
     [Plunger]
-    () "fine thread m20" -- Plunger
+    () "concentric\noutside\n21.5mm" -- Plunger
+     Plunger --> "concentric\ninside\n21mm"
 
-    [tube]
-    () "concentric outside 21.3mm" -- tube
-    () "concentric inside 20mm" -- tube
-
-    [Nut_m26]
-    () "screw thread m26x1.5" -- Nut_26
-     Nut_26 --> "concentric inside 20mm"
+    [Big_nut]
+    () "screw\nthread\nm27x1.5" -- Big_nut
+    () "concentric\ninside\n21mm" -- Big_nut
 
     [House]
-    House --> "concentric outside 17.5mm"
-    House --> "screw thread m20"
-    House --> "concentric outside 21.3mm"
-    House --> "screw thread m26x1.5"
-    House --> "fine thread m20"
+    House --> "concentric\noutside\n17mm"
+    House --> "screw\nthread\nm20"
+    House --> "concentric\noutside\n21.5mm"
+    House --> "screw\nthread\nm27x1.5"
+    House --> "fine\nthread\nm20"
 }
 
 @enduml
