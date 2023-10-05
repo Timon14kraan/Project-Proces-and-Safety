@@ -16,5 +16,14 @@ object Projecttasks {
   <#white>|  Do a risk assessment | No |
 }
 
+object Week 1 & 2 {
+  <#lightblue,#black>|=  Tasks:  |=  Who?  |
+  <#white>| Introduction | Timon, Matthijs, Tim, Mika|
+}
+
+object Week 3 {
+  <#lightblue,#black>|=  Tasks:  |=  Who?  |
+}
+
 @endulm
 ```
