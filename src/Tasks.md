@@ -16,9 +16,9 @@ object Projecttasks {
   <#white>|  Do a risk assessment | No |
 }
 
-object Week 1 & 2 {
+object Week 1 and 2 {
   <#lightblue,#black>|=  Tasks:  |=  Who?  |
-  <#white>| Introduction | Timon, Matthijs, Tim, Mika|
+  <#white>| Introduction | Timon Matthijs Tim Mika|
 }
 
 object Week 3 {
