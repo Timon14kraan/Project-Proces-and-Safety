@@ -69,12 +69,12 @@ left to right direction
 component Construction valve {
     
     [Ring]
-    () "concentric outside 10mm" -- Ring
+    () "concentric" -- Ring
 
 
 
     [House]
-    House --> "concentric\noutside\n10mm"
+    House --> "concentric"
 
     
 }
