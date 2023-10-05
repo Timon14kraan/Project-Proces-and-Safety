@@ -60,7 +60,6 @@ cabinet -r-> Power
 
 @enduml
 ```
-
 ```plantuml
 @startuml Process_and_Safety
 skinparam backgroundColor transparent
@@ -70,12 +69,12 @@ left to right direction
 component Construction_valve {
     
     [Ring]
-    () "concentric" -- Ring
+    () "concentric outside 10mm" -- Ring
 
 
 
     [House]
-    House --> "concentric"
+    House --> "concentric\noutside\n10mm"
 
     
 }
