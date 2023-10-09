@@ -41,6 +41,7 @@ component Structure_of_the_valve {
 ```
 The second diagram shows the setup. All important factors are incorporated and linked together. Based on this diagram, components can be found and the system can be further built up.
 
+Component diagram:
 ```plantuml
 @startuml Process_and_Safety
 skinparam backgroundColor transparent
@@ -58,6 +59,7 @@ component Valve_assembly_setup {
     () "pickup\nposition\nbig nut" -- Storage 
     () "pickup\nposition\nassembled valve" -- Storage     
     Storage --> "position\nstorage"
+    Storage --> "power\nstorage"
 
     [Ring]
     Ring --> "pickup\nposition\nring"
@@ -86,6 +88,7 @@ component Valve_assembly_setup {
     [Robot]
     () "end\neffector" -- Robot
     Robot --> "position\nrobot"
+    Robot--> "power\nrobot"
 
     [Gripper]
     Gripper --> "pickup\nposition\nring"
@@ -102,6 +105,7 @@ component Valve_assembly_setup {
     () "position\nassembly station cap" -- Frame
     () "position\nassembly station small nut" -- Frame
     () "position\nassembly station big nut" -- Frame
+    () "position\nvoltage cabinet" -- Frame
 
     [assembly_station_cap]
     () "holder cap" -- assembly_station_cap
@@ -115,69 +119,37 @@ component Valve_assembly_setup {
     () "holder big nut" -- assembly_station_big_nut
     assembly_station_big_nut --> "position\nassembly station big nut"
 
+    [voltage_cabinet]
+    voltage_cabinet --> "position\nvoltage cabinet"
+    () "power\nrobot" -- voltage_cabinet
+    () "power\nstorage" -- voltage_cabinet
 
 }
 
 @enduml
-
 ```
 
 ```plantuml
-@startuml Process_and_Safety
-skinparam backgroundColor transparent
-left to right direction
-'skinparam linetype ortho
+@startuml
 
-component Valve_assembly {
-    
-    [frame]
-    () assemble_place -u- frame
+object IO_list {
+  <#lightblue,#black>|= Number  |= Sensors or actuators  |=  Input or output  |
+  <#white>| 1 | Cap in position (storage) | Input |
+  <#white>| 2 | House in position (storage) | Input |
+  <#white>| 3 | Plunger in position (storage) | Input |
+  <#white>| 4 | Ring in position (storage) | Input |
+  <#white>| 5 | Big nut in position (storage) | Input |
+  <#white>| 6 | Small nut in position (storage) | Input |
+  <#white>| 7 | Assembled valve ready (storage) | Input |
+  <#white>| 8 | Holder in right direction (assembly station cap) | Input |
+  <#white>| 9 | Holder in right direction (assembly station big nut) | Input |
+  <#white>| 10 | Holder in right direction (assembly station small nut) | Input |
+  <#white>| 11 | Motor aansturen (assembly station cap) | Output |
+  <#white>| 12 | Motor aansturen (assembly station big nut) | Output |
+  <#white>| 13 | Motor aansturen (assembly station small nut) | Output |
+  <#white>| 14 | Gripper open | Output |
+  <#white>| 15 | Gripper dicht | Output |
 
-    [robot]
-    () input_0 -- robot
-    () output_0 -- robot
-    () "end\neffector" -- robot
-
-    [sensor]
-    sensor --> input_0 : connected
-    sensor --> "sensor\nposition"
-    
-    robot -> assemble_place
-
-    [cabinet]
-    () "robot\npower" -- cabinet
-    () "storage\npower" -- cabinet
-   
-    cabinet -u-> assemble_place
-    robot --> "robot\npower"
-    cabinet -r-> output_0
-    
-    [storage]
-    () "sensor\nposition" -- storage
-    () "ring\nposition" -- storage
-    storage -> assemble_place
-    storage --> "storage\npower"
-
-    [ring]
-    () shape -- ring
-    
-    [gripper]
-    gripper -l-> shape
-    
-    ring --> "ring\nposition"
-    gripper --> "end\neffector"
 }
-
-[building]
-
-() Power -l- building
-() location -d- building
-
-frame --> location
-cabinet -r-> Power
-
-@enduml
-
+@endulm
 ```
-
-
