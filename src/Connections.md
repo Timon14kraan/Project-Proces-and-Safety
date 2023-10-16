@@ -2,8 +2,8 @@
 ```plantuml
 @startuml
 
+[BECKHOFF EK1100] --> [PLC] : EtherCAT
 
-[BECKHOFF] --> [PLC] : EtherCAT
 
 @enduml
 ```
