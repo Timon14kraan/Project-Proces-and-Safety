@@ -3,7 +3,7 @@
 @startuml
 
 [BECKHOFF EK1100] --> [PLC] : EtherCAT
-hoi
+
 
 
 @enduml
