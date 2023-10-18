@@ -1,7 +1,12 @@
 ```plantuml
 @startuml
 
-object Fixating the parts {
-  <#white>|  Rotating the robot arm | <img:http://plantuml.com/logo3.png{scale=0.5}> | 
- 
-}
+object "inbound message" as m1
+object "XML Splitter" as s1
+
+m1 : <img:MessageIcon.gif>
+s1 : <img:SplitterIcon.gif>
+m2 : <img:MessageIcon.gif>
+
+m1 -> s1
+s1 -> m2
