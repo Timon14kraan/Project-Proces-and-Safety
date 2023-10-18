@@ -4,3 +4,4 @@
 - [Tasks](./Tasks.md)
 - [Flowchart](./Flowchart.md)
 - [Connections](./Connections.md)
+- [Functions](./Functions.md)
