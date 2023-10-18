@@ -1,10 +1,23 @@
 # Connections testplaat
 ```plantuml
-@startuml
+@startuml conncections
+skinparam backgroundColor transparent
+left to right direction
+'skinparam linetype ortho
 
-[BECKHOFF EK1100] --> [PLC] : EtherCAT
+component Connections {
+    
+    [Beckhoff_EK1100]
+    () "Schuifverbinding1" -- Beckhoff_EK1100
+    () "Schuifverbinding2" -- Beckhoff_EK1100
+ 
+    [Beckhoff_inputkaart]
+    Beckhoff_inputkaart --> "Schuifverbinding1"
 
+    [Beckhoff_outputkaart]
+    Beckhoff_outputkaart --> "Schuifverbinding2"
 
+}
 
 @enduml
 ```
