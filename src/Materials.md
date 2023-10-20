@@ -20,7 +20,7 @@ object Bill_of_materials {
   <#white>| Draad input | 1,5m | 0 | 0 |
   <#white>| Draad output | 1,5m | 0 | 0 |
   <#white>| Knop | 2 | 0 | 0 |
-  <#white>| Schakelaar knop | 2 | 0 | 0 |
+  <#white>| Schakelaar knop, maakcontact | 2 | 0 | 0 |
 }
 
 @endulm
