@@ -1,12 +1,9 @@
 ```plantuml
 @startuml
 
-object "inbound message" as m1
-object "XML Splitter" as s1
-
-m1 : <img:http://plantuml.com/logo3.png>
-s1 : <img:https://cdn.productimages.abb.com/9IBA241268_720x540.jpg>
-m2 : <img:MessageIcon.gif>
-
-m1 -> s1
-s1 -> m2
+object Fixating the parts {
+  <#white>| Rotating the robot arm| <#red> We didn't choose rotating the robot arm as a way of fixating because the robot|
+  <#white>| Using a tool for fixating the parts||
+  <#white>| Rotating the part ||
+  <#white>| 
+}
