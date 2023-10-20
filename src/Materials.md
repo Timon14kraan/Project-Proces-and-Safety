@@ -14,13 +14,11 @@ object Bill_of_materials {
   <#white>| Ethernetkabels | 4 | 0 | 4 | 
   <#white>| 24v motor | 3 | 3 | 0 |
   <#white>| Inductieve sensor 24v | 4 | 2 | 2 |
-  <#white>| Klemmen 24v | 4 | 0 | 0 |
-  <#white>| Klemmen 0v | 9 | 0 | 0 |
-  <#white>| Klemmen input | 6 | 0 | 0 |
-  <#white>| Klemmen output | 3 | 0 | 0 |
-  <#white>| aarde plus | 1,5m | 0 | 0 |
-  <#white>| Klemmen min | 1,5m | 0 | 0 |
-  <#white>| Klemmen schakel | 1,5m | 0 | 0 |
+  <#white>| Klemmen | 4*3 + 3*2 + 2*2 = 22 | 0 | 0 |
+  <#white>| Draad plus | 1,5m | 0 | 0 |
+  <#white>| Draad min | 1,5m | 0 | 0 |
+  <#white>| Draad input | 1,5m | 0 | 0 |
+  <#white>| Draad output | 1,5m | 0 | 0 |
   <#white>| Knop | 2 | 0 | 0 |
   <#white>| Schakelaar knop | 2 | 0 | 0 |
 }
