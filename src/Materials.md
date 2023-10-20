@@ -15,12 +15,12 @@ object Bill_of_materials {
   <#white>| 24v motor | 3 | 3 | 0 |
   <#white>| Inductieve sensor 24v | 4 | 2 | 2 |
   <#white>| Klemmen | 4*3 + 3*2 + 2*2 = 22 | 0 | 0 |
-  <#white>| Draad plus | 1,5m | 0 | 0 |
-  <#white>| Draad min | 1,5m | 0 | 0 |
-  <#white>| Draad input | 1,5m | 0 | 0 |
-  <#white>| Draad output | 1,5m | 0 | 0 |
-  <#white>| Knop | 2 | 0 | 0 |
-  <#white>| Schakelaar knop, maakcontact | 2 | 0 | 0 |
+  <#white>| Draad plus | 1,5m | 0 | 1.5m |
+  <#white>| Draad min | 1,5m | 0 | 1.5m |
+  <#white>| Draad input | 1,5m | 0 | 1.5m |
+  <#white>| Draad output | 1,5m | 0 | 1.5m |
+  <#white>| Knop | 2 | 0 | 2 |
+  <#white>| Schakelaar knop, maakcontact | 2 | 0 | 2 |
 }
 
 @endulm
