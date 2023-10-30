@@ -1,11 +1,11 @@
 # Connections testplaat
 ```plantuml
-@startuml conncections
+@startuml morphological overview
 skinparam backgroundColor transparent
 Top to Bottom direction
 'skinparam linetype ortho
 
-component Connections {
+component morphological overview {
     
     [Beckhoff_EK1100]
     () "Schuifverbinding1" -- Beckhoff_EK1100
