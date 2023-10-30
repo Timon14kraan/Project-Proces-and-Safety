@@ -2,7 +2,7 @@
 ```plantuml
 @startuml morphological overview
 skinparam backgroundColor transparent
-Top to Bottom direction
+left to right direction
 'skinparam linetype ortho
 
 component morphological overview {
