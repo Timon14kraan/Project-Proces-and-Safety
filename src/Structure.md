@@ -134,21 +134,17 @@ component Valve_assembly_setup {
 
 object IO_list {
   <#lightblue,#black>|= Number  |= Sensors or actuators  |=  Input or output  |
-  <#white>| 1 | Cap in position (storage) | Input |
-  <#white>| 2 | House in position (storage) | Input |
-  <#white>| 3 | Plunger in position (storage) | Input |
-  <#white>| 4 | Ring in position (storage) | Input |
-  <#white>| 5 | Big nut in position (storage) | Input |
-  <#white>| 6 | Small nut in position (storage) | Input |
-  <#white>| 7 | Assembled valve ready (storage) | Input |
-  <#white>| 8 | Holder in right direction (assembly station cap) | Input |
-  <#white>| 9 | Holder in right direction (assembly station big nut) | Input |
-  <#white>| 10 | Holder in right direction (assembly station small nut) | Input |
-  <#white>| 11 | Motor aansturen (assembly station cap) | Output |
-  <#white>| 12 | Motor aansturen (assembly station big nut) | Output |
-  <#white>| 13 | Motor aansturen (assembly station small nut) | Output |
-  <#white>| 14 | Gripper open | Output |
-  <#white>| 15 | Gripper dicht | Output |
+  <#white>| 1 | Storage complete | Input |
+  <#white>| 2 | Start button | Input |
+  <#white>| 3 | Stop button | Input |
+  <#white>| 4 | Holder in right direction (assembly station cap) | Input |
+  <#white>| 5 | Holder in right direction (assembly station big nut) | Input |
+  <#white>| 6 | Holder in right direction (assembly station small nut) | Input |
+  <#white>| 7 | Motor aansturen (assembly station cap) | Output |
+  <#white>| 8 | Motor aansturen (assembly station big nut) | Output |
+  <#white>| 9 | Motor aansturen (assembly station small nut) | Output |
+  <#white>| 10 | Gripper open | Output |
+  <#white>| 11 | Gripper dicht | Output |
 
 }
 @endulm

@@ -48,9 +48,28 @@ object Week5 {
 
 object Week6 {
   <#lightblue,#black>|=  Tasks:  |=  Who?  |
-  <#white>| IO-list | Timon |
+  <#white>| IO-list, PLC configuratie en setup gebouwd | Timon |
   <#white>| 3d Printing | Tim |
+  <#white>| | Matthijs |
+  <#white>|  | Mika |
 }
+
+object Week7 {
+  <#lightblue,#black>|=  Tasks:  |=  Who?  |
+  <#white>| test setup afgebouwd en getest, bill of materials gemaakt | Timon |
+  <#white>|  | Tim |
+  <#white>|  | Mika |
+  <#white>|  | Matthijs |
+}
+
+object Week7 {
+  <#lightblue,#black>|=  Tasks:  |=  Who?  |
+  <#white>| bill of materials doorgestuurd en Eplan tekeningen gemaakt | Timon |
+  <#white>|  | Tim |
+  <#white>|  | Mika |
+  <#white>|  | Matthijs |
+}
+
 
 @endulm
 ```
