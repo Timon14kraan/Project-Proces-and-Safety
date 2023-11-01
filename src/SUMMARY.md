@@ -6,6 +6,6 @@
 - [Connections](./Connections.md)
 - [Materials](./Materials.md)
 - [Functions](./Functions.md)
-- [Riskassesment](./Riskassesment.md)
--[morphologicaloverview](./morphologicaloverview.md)
+- [Riskassesment](./Riskassessment.md)
+- [morphologicaloverview](./morphologicaloverview.md)
 
