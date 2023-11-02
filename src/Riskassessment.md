@@ -7,7 +7,12 @@ Wat moet erin komen:
   - ect
 - Hoe kun je deze gevaren voorkomen/oplossen?
     - veiligheidszones
-    -
+    - hekwerk
+    - magneet/sensoren
+    - drukknoppen
+    - lichtschermen
+    - noodstop
+    - 
 
 Zie Sick handleiding als voorbeeld
 
