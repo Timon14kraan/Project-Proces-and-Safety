@@ -6,6 +6,8 @@ Wat moet erin komen:
   - scherpe delen
   - ect
 - Hoe kun je deze gevaren voorkomen/oplossen?
+    - veiligheidszones
+    -
 
 Zie Sick handleiding als voorbeeld
 
