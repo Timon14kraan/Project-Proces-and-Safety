@@ -128,24 +128,3 @@ component Valve_assembly_setup {
 
 @enduml
 ```
-
-```plantuml
-@startuml
-
-object IO_list {
-  <#lightblue,#black>|= Number  |= Sensors or actuators  |=  Input or output  |
-  <#white>| 1 | Storage complete | Input |
-  <#white>| 2 | Start button | Input |
-  <#white>| 3 | Stop button | Input |
-  <#white>| 4 | Holder in right direction (assembly station cap) | Input |
-  <#white>| 5 | Holder in right direction (assembly station big nut) | Input |
-  <#white>| 6 | Holder in right direction (assembly station small nut) | Input |
-  <#white>| 7 | Motor aansturen (assembly station cap) | Output |
-  <#white>| 8 | Motor aansturen (assembly station big nut) | Output |
-  <#white>| 9 | Motor aansturen (assembly station small nut) | Output |
-  <#white>| 10 | Gripper open | Output |
-  <#white>| 11 | Gripper dicht | Output |
-
-}
-@endulm
-```
