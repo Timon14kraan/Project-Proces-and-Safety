@@ -67,9 +67,9 @@ object IO_list_Beckhoff_EK1100 {
   <#white>| 4 | Input | Sensor: Holder in right direction (assembly station cap) |
   <#white>| 5 | Input | Sensor: Holder in right direction (assembly station big nut) | 
   <#white>| 6 | Input | Sensor: Holder in right direction (assembly station small nut) |
-  <#white>| 7 | Input | Signaal van robotcontroller: Zet motor 1 aan |
-  <#white>| 8 | Input | Signaal van robotcontroller: Zet motor 2 aan |
-  <#white>| 9 | Input | Signaal van robotcontroller: Zet motor 3 aan |
+  <#white>| 7 | Input | Signaal naar Beckhoff module: Zet motor 1 aan |
+  <#white>| 8 | Input | Signaal naar Beckhoff module: Zet motor 2 aan |
+  <#white>| 9 | Input | Signaal naar Beckhoff module: Zet motor 3 aan |
   <#white>| 10 | Input | Signaal van robotcontroller: Assemblageproces is klaar |  
   <#white>| 1 | Output | Motor (assembly station cap) | 
   <#white>| 2 | Output | Motor (assembly station big nut) |
