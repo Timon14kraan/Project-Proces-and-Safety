@@ -1,6 +1,6 @@
 # Tasks
 
-Onderstaand staan alle taken die tijdens dit project uitgevoerd moeten worden.
+Below are all tasks that must be performed during this project.
 
 ```plantuml
 @startuml
@@ -52,7 +52,7 @@ object Tasks_quartile_1 {
 
 object Tasks_quartile_2 {
   <#lightblue,#black>|=  Tasks week 2.1:  |=  Who?  |
-  <#white>| Elektrische componenten opgebouwd en Beckhoff kaarten aangesloten op de klemmen | Timon |
+  <#white>| Made of electrical components and Beckhoff maps connected to the clamps | Timon |
   <#white>|  | Tim |
   <#white>|  | Mika |
   <#white>|  | Matthijs |
