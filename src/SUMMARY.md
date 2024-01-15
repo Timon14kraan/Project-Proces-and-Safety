@@ -5,6 +5,5 @@
 - [Flowchart](./Flowchart.md)
 - [Connections](./Connections.md)
 - [Materials](./Materials.md)
-- [Functions](./Functions.md)
 - [Riskassesment](./Riskassessment.md)
 
