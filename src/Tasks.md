@@ -8,11 +8,11 @@ Onderstaand staan alle taken die tijdens dit project uitgevoerd moeten worden.
 object Projecttasks {
   <#lightblue,#black>|=  Tasks to do:  |=  Ready?  |
   <#white>|  Investigate part specifications | Yes | 
-  <#white>|  Investigate plc specifications | No |
-  <#white>|  Investigate how plc can be used  | No |
+  <#white>|  Investigate plc specifications | Yes |
+  <#white>|  Investigate how plc can be used  | Yes |
   <#white>|  Drawing parts Solidworks | Yes |
-  <#white>|  Figuring out which sensors we need | No |
-  <#white>|  Drawing electrical drawings Eplan | No |
+  <#white>|  Figuring out which sensors we need | Yes |
+  <#white>|  Drawing electrical drawings Eplan | Yes |
   <#white>|  Do a risk assessment | No |
 }
 
@@ -53,6 +53,11 @@ object Tasks_quartile_1 {
 object Tasks_quartile_2 {
   <#lightblue,#black>|=  Tasks week 2.1:  |=  Who?  |
   <#white>| Elektrische componenten opgebouwd en Beckhoff kaarten aangesloten op de klemmen | Timon |
+  <#white>|  | Tim |
+  <#white>|  | Mika |
+  <#white>|  | Matthijs |
+    <#lightblue,#black>|=  Tasks week 2.8:  |=  Who?  |
+  <#white>|  | Timon |
   <#white>|  | Tim |
   <#white>|  | Mika |
   <#white>|  | Matthijs |

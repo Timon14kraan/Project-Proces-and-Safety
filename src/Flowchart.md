@@ -1,6 +1,5 @@
 # Flowchart
-```plantuml
-@startuml
+
 ```plantuml
 @startuml
 
@@ -149,6 +148,4 @@ stop
 
 
 @enduml
-
-
-@enduml
+```
