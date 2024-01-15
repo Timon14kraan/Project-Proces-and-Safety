@@ -4,15 +4,14 @@ Wat moet erin komen:
   - Vallen
   - Lichaamsdeel erin
   - scherpe delen
-  - ect
+  - Klemgevaar
 - Hoe kun je deze gevaren voorkomen/oplossen?
-    - veiligheidszones
-    - hekwerk
-    - magneet/sensoren
-    - drukknoppen
-    - lichtschermen
-    - noodstop
-    - 
+  - veiligheidszones
+  - hekwerk
+  - magneet/sensoren
+  - drukknoppen
+  - lichtschermen
+  - noodstop 
 
 Zie Sick handleiding als voorbeeld
 
