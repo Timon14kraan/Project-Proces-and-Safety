@@ -59,7 +59,7 @@ object Tasks_quartile_2 {
     <#lightblue,#black>|=  Tasks week 2.8:  |=  Who?  |
   <#white>|  | Timon |
   <#white>|  | Tim |
-  <#white>|  | Mika |
+  <#white>| Made risk assessments | Mika |  
   <#white>|  | Matthijs |
 }
 
