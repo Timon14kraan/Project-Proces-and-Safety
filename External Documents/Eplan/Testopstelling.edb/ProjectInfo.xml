@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Properties>
+ <Property name="Objectidentificatie" id="2000" index="0" type="7">29/14/1/0</Property>
+ <Property name="Laatste bewerker: Kenmerk" id="3010" index="0" type="7"/>
+ <Property name="Laatste bewerker: Naam" id="3011" index="0" type="7"/>
+ <Property name="Laatste bewerker: Telefoon" id="3012" index="0" type="7"/>
+ <Property name="Laatste bewerker: E-mail" id="3013" index="0" type="7"/>
+ <Property name="Projectstructuur: Functionele toekenning" id="10001" index="0" type="7"/>
+ <Property name="Projectstructuur: Functie aanduiding" id="10002" index="0" type="7">&lt;1100&gt;&lt;1101&gt;&lt;1102&gt;&lt;1103&gt;&lt;1104&gt;&lt;1105&gt;&lt;1106&gt;&lt;1107&gt;&lt;1108&gt;&lt;1109&gt;</Property>
+ <Property name="Projectstructuur: Installatieplaats" id="10003" index="0" type="7"/>
+ <Property name="Projectstructuur: Locatie aanduiding" id="10004" index="0" type="7">&lt;1200&gt;&lt;1201&gt;&lt;1202&gt;&lt;1203&gt;&lt;1204&gt;&lt;1205&gt;&lt;1206&gt;&lt;1207&gt;&lt;1208&gt;&lt;1209&gt;</Property>
+ <Property name="Projectstructuur: Groepsnummer" id="10005" index="0" type="7">&lt;1700&gt;</Property>
+ <Property name="Projectstructuur: Documenttype" id="10006" index="0" type="7"/>
+ <Property name="Projectstructuur: Gebruikergedefinieerde structuur" id="10007" index="0" type="7"/>
+ <Property name="Projectnaam (volledig)" id="10009" index="0" type="7">C:\Users\timon\OneDrive - Saxion\Process and Safety\Eplan\Testopstelling.elk</Property>
+ <Property name="Projectpad" id="10010" index="0" type="7">C:\Users\timon\OneDrive - Saxion\Process and Safety\Eplan</Property>
+ <Property name="Projectbeschrijving" id="10011" index="0" type="15">??_??@Proces and safety;</Property>
+ <Property name="Paginanaam in de ODC overnemen" id="10012" index="0" type="1">0</Property>
+ <Property name="Projectnummer" id="10013" index="0" type="7">IEC_bas001</Property>
+ <Property name="Opdrachtgever" id="10014" index="0" type="15">de_DE@EPLAN;en_US@EPLAN;es_ES@EPLAN;fr_FR@EPLAN;nl_NL@EPLAN;sv_SE@EPLAN;da_DK@EPLAN;ru_RU@EPLAN;zh_CN@EPLAN;pl_PL@EPLAN;pt_BR@EPLAN;cs_CZ@EPLAN;it_IT@EPLAN;hu_HU@EPLAN;pt_PT@EPLAN;ko_KR@EPLAN;ja_JP@EPLAN;tr_TR@EPLAN;ro_RO@EPLAN;zh_TW@EPLAN;</Property>
+ <Property name="Bedrijfsnaam" id="10015" index="0" type="7">EPLAN GmbH &amp; Co. KG</Property>
+ <Property name="Bedrijfsadres 1" id="10016" index="0" type="7">An der alten Ziegelei 2</Property>
+ <Property name="Bedrijfsadres 2" id="10017" index="0" type="7">D-40789 Monheim am Rhein / Germany</Property>
+ <Property name="Scheidingsteken voor structuren" id="10018" index="0" type="7">16&#9;==&#9;.&#9;=&#9;.&#9;++&#9;.&#9;+&#9;.&#9;&#9;&#9;&amp;&#9;&#9;#&#9;#&#9;-&#9;-</Property>
+ <Property name="Nesten van onderdeelcodes" id="10019" index="0" type="7">16&#9;0&#9;1&#9;1&#9;1&#9;1&#9;0&#9;1&#9;0&#9;0&#9;0&#9;0&#9;0&#9;0&#9;0&#9;0&#9;0</Property>
+ <Property name="Engineer" id="10020" index="0" type="7">timon</Property>
+ <Property name="Aanmaakdatum" id="10021" index="0" type="14">1697790314</Property>
+ <Property name="Laatste bewerker: Aanmeldingsnaam" id="10022" index="0" type="7">timon</Property>
+ <Property name="Wijzigingsdatum" id="10023" index="0" type="14">1700561676</Property>
+ <Property name="Laatste vertaling: Datum" id="10024" index="0" type="14">1647517910</Property>
+ <Property name="Datum" id="10027" index="0" type="14">1700561728</Property>
+ <Property name="Projectstart" id="10028" index="0" type="14">1697790369</Property>
+ <Property name="Bovenliggende structuurformaten" id="10029" index="0" type="7">4&#9;0&#9;0&#9;0&#9;0</Property>
+ <Property name="Milieu-aspecten" id="10034" index="0" type="15">de_DE@keine;en_US@None;nl_NL@geen;fr_FR@aucune;es_ES@ninguno;sv_SE@ingen;da_DK@ingen;zh_CN@无;ru_RU@нет;pl_PL@brak;pt_BR@nenhum;cs_CZ@žádné;it_IT@nessuna;hu_HU@nincs;pt_PT@nenhum;ko_KR@없음;ja_JP@なし;tr_TR@yok;ro_RO@niciunul/niciuna;zh_TW@無;</Property>
+ <Property name="Laatst gebruikte EPLAN-versie" id="10043" index="0" type="7">2023.0.3</Property>
+ <Property name="Laatst gebruikte EPLAN-build" id="10044" index="0" type="7">19351</Property>
+ <Property name="Projectpad (volledig)" id="10045" index="0" type="7">C:\Users\timon\OneDrive - Saxion\Process and Safety\Eplan</Property>
+ <Property name="Aanmaaktijd" id="10046" index="0" type="7">10:25:14</Property>
+ <Property name="Wijzigingstijd" id="10047" index="0" type="7">11:14:36</Property>
+ <Property name="Laatste vertaling: Tijd" id="10048" index="0" type="7">12:51:50</Property>
+ <Property name="Structuurformaat voor pagina&apos;s" id="10050" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;11012&gt;&lt;11013&gt;</Property>
+ <Property name="Structuurformaat voor afbreekpunten" id="10051" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;</Property>
+ <Property name="Structuurformaat voor verzamelrails" id="10053" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Bovenliggend structuurformaat voor alle onderdelen" id="10054" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;10005&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Structuurformaat voor algemene onderdelen" id="10055" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Structuurformaat voor apparaatkasten" id="10056" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Structuurformaat voor PLC- / bustechniek" id="10057" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Tijd" id="10058" index="0" type="14">1700561728</Property>
+ <Property name="Structuurformaat voor klemmenstroken" id="10059" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Structuurformaat voor stekers" id="10060" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Structuurformaat voor kabels" id="10061" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Structuurformaat voor structuurkasten" id="10062" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;10005&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Structuurformaat voor Fluid-onderdelen" id="10063" index="0" type="7">&lt;10005&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Structuurformaat voor fluid-leidingverdeler / -verbinder" id="10064" index="0" type="7">&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="1" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="2" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="3" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="4" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="5" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="6" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="7" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="8" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="9" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="10" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="11" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="12" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="13" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="14" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="15" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="16" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="17" type="4">2</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="18" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="19" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="20" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="21" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="22" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="23" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="24" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="25" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="26" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="27" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="28" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="29" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="30" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="31" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="32" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="33" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="34" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="35" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="36" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="37" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="38" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="39" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="40" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="41" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="42" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="43" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="44" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="45" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="46" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="47" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="48" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="49" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="50" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="51" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="52" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="53" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="54" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="55" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="56" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="57" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="58" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="59" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="60" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="61" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="62" type="4">0</Property>
+ <Property name="Aantal geblokkeerde pagina&apos;s per paginatype" id="10065" index="63" type="4">0</Property>
+ <Property name="Project: Sjabloon" id="10069" index="0" type="7">IEC_bas001.zw9</Property>
+ <Property name="Naamformaat voor pagina&apos;s" id="10070" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;11012&gt;&lt;11013&gt;</Property>
+ <Property name="Naamformaat voor afbreekpunten" id="10071" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;</Property>
+ <Property name="Internal: Build" id="10072" index="0" type="7">19351</Property>
+ <Property name="Naamformaat voor verzamelrails" id="10073" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Bovenliggend naamformaat voor alle onderdelen" id="10074" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;10005&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Naamformaat voor onderdelen" id="10075" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Naamformaat voor apparaatkasten" id="10076" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Naamformaat voor PLC- / bustechniek" id="10077" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Naamformaat voor klemmenstroken" id="10079" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Naamformaat voor stekers" id="10080" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Naamformaat voor kabels" id="10081" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Naamformaat voor structuurkasten" id="10082" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;10005&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Naamformaat voor Fluid-onderdelen" id="10083" index="0" type="7">&lt;10005&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Naamgevingsformaat voor fluid-leidingverdeler / -verbinder" id="10084" index="0" type="7">&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Structuurformaat voor mechanische onderdelen" id="10085" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Naamgevingsformaat voor mechanische onderdelen" id="10086" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Internal: Highest used EPLAN build number" id="10087" index="0" type="4">19351</Property>
+ <Property name="Internal: Highest used EPLAN version" id="10088" index="0" type="7">2023.0.3.19351</Property>
+ <Property name="Volgorde van de projectstructuren in de paginanaam" id="10089" index="0" type="7">&lt;10001&gt;&lt;10002&gt;&lt;10003&gt;&lt;10004&gt;&lt;10006&gt;&lt;10007&gt;&lt;10005&gt;</Property>
+ <Property name="ODC in individuele velden bewerken" id="10090" index="0" type="1">0</Property>
+ <Property name="Volgorde van de individuele ODC-eigenschappen" id="10091" index="0" type="7"/>
+ <Property name="Opbouw van de boomstructuur in de paginaboomstructuur" id="10092" index="0" type="7">3&#9;11017&#9;0&#9;0&#9;10002&#9;0&#9;1&#9;10004&#9;0&#9;1</Property>
+ <Property name="Beschrijvende codes in de paginaboomstructuur weergeven" id="10093" index="0" type="1">0</Property>
+ <Property name="Opbouw van de boomstructuur in de apparaat-navigators" id="10094" index="0" type="7">3&#9;10002&#9;0&#9;1&#9;10004&#9;0&#9;1&#9;10005&#9;0&#9;1&#9;20012&#9;0&#9;0&#9;20013&#9;0&#9;0&#9;20014&#9;0&#9;0&#9;20015&#9;0&#9;0</Property>
+ <Property name="Beschrijvende codes in de apparaat-navigators weergeven" id="10095" index="0" type="1">0</Property>
+ <Property name="Hoogste revisie-index (uit wijzigingstracering)" id="10098" index="0" type="7"/>
+ <Property name="Revisie: Oorspronkelijke projectnaam" id="10149" index="0" type="7"/>
+ <Property name="Unieke project-ID" id="10184" index="0" type="7">IEC_bas001@1697790366</Property>
+ <Property name="Licentienummer van de dongle" id="10185" index="0" type="7">EPLSNLMGND</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="1" type="4">10</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="2" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="3" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="4" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="5" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="6" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="7" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="8" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="9" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="10" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="11" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="12" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="13" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="14" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="15" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="16" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="17" type="4">2</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="18" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="19" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="20" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="21" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="22" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="23" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="24" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="25" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="26" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="27" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="28" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="29" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="30" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="31" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="32" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="33" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="34" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="35" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="36" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="37" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="38" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="39" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="40" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="41" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="42" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="43" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="44" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="45" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="46" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="47" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="48" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="49" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="50" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="51" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="52" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="53" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="54" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="55" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="56" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="57" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="58" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="59" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="60" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="61" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="62" type="4">0</Property>
+ <Property name="Aantal pagina&apos;s per paginatype" id="10200" index="63" type="4">0</Property>
+ <Property name="Engineer: Korte naam" id="10230" index="0" type="7">Project</Property>
+ <Property name="Engineer: Aanhef" id="10231" index="0" type="7">Firma</Property>
+ <Property name="Engineer: Naam 1" id="10232" index="0" type="7">EPLAN GmbH &amp; Co. KG</Property>
+ <Property name="Engineer: Straat" id="10235" index="0" type="7">An der alten Ziegelei 2</Property>
+ <Property name="Engineer: Postcode (plaats)" id="10237" index="0" type="7">40789</Property>
+ <Property name="Engineer: Plaats" id="10238" index="0" type="7">Monheim am Rhein</Property>
+ <Property name="Engineer: Land" id="10239" index="0" type="7">Deutschland</Property>
+ <Property name="Engineer: Telefoon" id="10240" index="0" type="7">+49 (0)2173 - 39 64 - 0</Property>
+ <Property name="Engineer: Telefax" id="10241" index="0" type="7">+49 (0)2173 - 39 64 - 25</Property>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="1" type="14">1700561500</Property>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="2" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="3" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="4" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="5" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="6" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="7" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="8" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="9" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="10" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="11" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="12" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="13" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="14" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="15" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="16" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="17" type="14">1647517830</Property>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="18" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="19" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="20" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="21" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="22" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="23" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="24" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="25" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="26" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="27" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="28" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="29" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="30" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="31" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="32" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="33" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="34" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="35" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="36" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="37" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="38" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="39" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="40" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="41" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="42" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="43" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="44" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="45" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="46" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="47" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="48" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="49" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="50" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="51" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="52" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="53" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="54" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="55" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="56" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="57" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="58" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="59" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="60" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="61" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="62" type="14"/>
+ <Property name="Laatste wijzigingsdatum per paginatype" id="10250" index="63" type="14"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="1" type="7">11:11:40</Property>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="2" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="3" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="4" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="5" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="6" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="7" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="8" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="9" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="10" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="11" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="12" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="13" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="14" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="15" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="16" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="17" type="7">12:50:30</Property>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="18" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="19" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="20" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="21" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="22" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="23" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="24" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="25" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="26" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="27" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="28" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="29" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="30" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="31" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="32" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="33" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="34" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="35" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="36" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="37" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="38" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="39" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="40" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="41" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="42" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="43" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="44" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="45" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="46" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="47" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="48" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="49" type="7"/>
+ <Property name="Laatste wijzigingstijd per paginatype" id="10251" index="50" type="7"/>
+ <Property name="Totaal aantal pagina&apos;s" id="10300" index="0" type="4">12</Property>
+ <Property name="Ingevoerde pagina&apos;s" id="10301" index="0" type="4">10</Property>
+ <Property name="Gegenereerde verwerkingspagina&apos;s" id="10302" index="0" type="4">2</Property>
+ <Property name="Projectstatus" id="10303" index="0" type="7">11&#9;1&#9;Klemmen&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;2&#9;Stekers&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;3&#9;Kabels&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;4&#9;PLC / bus&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;5&#9;Verbindingen&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;7&#9;Apparaten&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;8&#9;Andere talen&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;10&#9;Kruisverwijzingen&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;11&#9;Afbreekpunten&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;12&#9;2D-schakelkastopbouw&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;13&#9;Artikelgegevens&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;14&#9;Macro&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;15&#9;Verwerkingen&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;16&#9;Apparaatkasten&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;17&#9;ODC&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;18&#9;Gegevensovername EPLAN 5&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;19&#9;Gegevensovername EPLAN 21&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;20&#9;Projectvergelijking&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;21&#9;Tijdelijke aanduiding-objecten&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;22&#9;Overig&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;24&#9;Fluid&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;25&#9;Projectinstellingen&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;26&#9;3D-montageopbouw&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;27&#9;Topologie&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;28&#9;Pre-planning&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;29&#9;Pre-planning diepte&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;30&#9;Deelprojecten&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;32&#9;Boorpatroon&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;33&#9;Kabelboom&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;501&#9;Artikelstamgegevens&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;999&#9;Extern&#9;&#9;&#9;&#9;0&#9;0&#9;0</Property>
+ <Property name="Aantal layoutruimtes" id="10304" index="0" type="4">0</Property>
+ <Property name="Thermisch ontwerp: Spanning" id="10310" index="0" type="4">5</Property>
+ <Property name="Thermisch ontwerp: Frequentie" id="10311" index="0" type="4">1</Property>
+ <Property name="Internal: Page format name" id="10400" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Interruption point format name" id="10401" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Busbar format name" id="10403" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Standard device format name" id="10405" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Device box format name" id="10406" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: PLC format name" id="10407" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Terminal strip format name" id="10409" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Plug format name" id="10410" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Cable format name" id="10411" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Fluid format name" id="10412" index="0" type="15">##_##@707/SchemeDataProject;</Property>
+ <Property name="Internal: Distributor format name" id="10413" index="0" type="15">##_##@717/SchemeDataProject;</Property>
+ <Property name="Internal: Mechanic format name" id="10414" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Page format description" id="10420" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Interruption point format description" id="10421" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Busbar format description" id="10423" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Standard device format description" id="10425" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Device box format description" id="10426" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: PLC format description" id="10427" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Terminal strip format description" id="10429" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Plug format description" id="10430" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Cable format description" id="10431" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Fluid format description" id="10432" index="0" type="15">##_##@707/SchemeDataProject;</Property>
+ <Property name="Internal: Distributor format description" id="10433" index="0" type="15">##_##@717/SchemeDataProject;</Property>
+ <Property name="Internal: Mechanic format description" id="10434" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Paginanaam beginnen met documenttype" id="10450" index="0" type="1">0</Property>
+ <Property name="Brontaal" id="10500" index="0" type="4">85</Property>
+ <Property name="Backup: Methode" id="10514" index="0" type="4">-1</Property>
+ <Property name="Internal: Use defined working sections" id="10530" index="0" type="1">0</Property>
+ <Property name="Blokeigenschap: Formaat (afbreekpunt)" id="10609" index="5" type="7">[20221&lt;20010,0,0,0,0,0,0,0,0,de_DE,0,0,0,0,0,0&gt;]-[20222,1&lt;4&lt;11037,0,0,0,0,0,0,0,0,de_DE,0,0,0,0,0,5&gt;&gt;][20222,1&lt;4&lt;11042,0,0,0,0,0,0,0,0,de_DE,0,0,0,0,0,0&gt;&gt;]-[20222,1&lt;20221&lt;19006,0,0,0,0,0,0,0,0,de_DE,0,0,0,0,0,0&gt;&gt;]/[20222,1&lt;20221&lt;19005,0,0,0,0,0,0,0,0,de_DE,0,0,0,0,0,0&gt;&gt;]</Property>
+ <Property name="Blokeigenschap: Vervangingstekst" id="10660" index="5" type="7">=│??_??@0;│??_??@E;║=│??_??@2;│??_??@H;║=│??_??@3;│??_??@P;║=│??_??@4;│??_??@C;║=│??_??@5;│??_??@L;║=│??_??@6;│??_??@V;║=│??_??@7;│??_??@F;║=│??_??@8;│??_??@K;║=│??_??@9;│??_??@G;</Property>
+ <Property name="Extra veld" id="10901" index="1" type="15">de_DE@EPLAN Beispielprojekt;en_US@EPLAN sample project;nl_NL@EPLAN voorbeeldproject;fr_FR@Exemple de projet EPLAN;es_ES@Projecto de ejemplo EPLAN;sv_SE@EPLAN exempelprojekt;da_DK@EPLAN Projekteksempel;zh_CN@EPLAN 示例项目;ru_RU@Образец проекта EPLAN;pl_PL@Przykładowy projekt EPLAN;pt_BR@Exemplo de projeto EPLAN;cs_CZ@Vzorový projekt EPLAN;it_IT@Progetto di esempio EPLAN;hu_HU@EPLAN példa projekt;pt_PT@Exemplo de projeto EPLAN;ko_KR@EPLAN 샘플 프로젝트;ja_JP@EPLAN サンプル プロジェクト;tr_TR@EPLAN örnek projesi;ro_RO@Proiect eșantion EPLAN;zh_TW@EPLAN 樣本專案;</Property>
+ <Property name="Type project" id="10902" index="0" type="4">1</Property>
+ <Property name="Internal: Number of repair processes of the project object" id="10904" index="0" type="4">0</Property>
+ <Property name="Revisiemarkeringsformaat (uit wijzigingstracering)" id="19031" index="0" type="7">[14&lt;10155,1,0,0,0,0,0,0,0,,0,0,,0,0&gt;][LF][14&lt;10157,1,0,0,0,0,0,0,0,,0,0,,0,0&gt;][LF][14&lt;10158,1,0,0,0,0,0,0,0,,0,0,,0,0&gt;]</Property>
+ <Property name="Gebruiker extra veld 1" id="40001" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField1" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 2" id="40002" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField2" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 3" id="40003" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField3" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 4" id="40004" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField4" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 5" id="40005" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField5" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 6" id="40006" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField6" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 7" id="40007" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField7" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 8" id="40008" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField8" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 9" id="40009" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField9" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 10" id="40010" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField10" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 11" id="40011" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField11" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 12" id="40012" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField12" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 13" id="40013" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField13" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 14" id="40014" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField14" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 15" id="40015" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField15" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 16" id="40016" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField16" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 17" id="40017" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField17" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 18" id="40018" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField18" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 19" id="40019" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField19" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 20" id="40020" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField20" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 21" id="40021" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField21" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 22" id="40022" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField22" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 23" id="40023" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField23" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 24" id="40024" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField24" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 25" id="40025" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField25" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 26" id="40026" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField26" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 27" id="40027" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField27" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 28" id="40028" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField28" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 29" id="40029" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField29" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 30" id="40030" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField30" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 31" id="40031" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField31" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 32" id="40032" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField32" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 33" id="40033" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField33" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 34" id="40034" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField34" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 35" id="40035" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField35" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 36" id="40036" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField36" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 37" id="40037" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField37" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 38" id="40038" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField38" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 39" id="40039" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField39" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 40" id="40040" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField40" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 41" id="40041" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField41" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 42" id="40042" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField42" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 43" id="40043" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField43" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 44" id="40044" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField44" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 45" id="40045" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField45" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 46" id="40046" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField46" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 47" id="40047" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField47" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 48" id="40048" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField48" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 49" id="40049" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField49" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 50" id="40050" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField50" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 51" id="40051" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField51" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 52" id="40052" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField52" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 53" id="40053" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField53" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 54" id="40054" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField54" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 55" id="40055" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField55" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 56" id="40056" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField56" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 57" id="40057" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField57" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 58" id="40058" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField58" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 59" id="40059" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField59" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 60" id="40060" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField60" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 61" id="40061" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField61" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 62" id="40062" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField62" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 63" id="40063" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField63" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 64" id="40064" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField64" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 65" id="40065" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField65" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 66" id="40066" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField66" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 67" id="40067" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField67" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 68" id="40068" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField68" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 69" id="40069" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField69" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 70" id="40070" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField70" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 71" id="40071" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField71" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 72" id="40072" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField72" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 73" id="40073" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField73" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 74" id="40074" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField74" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 75" id="40075" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField75" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 76" id="40076" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField76" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 77" id="40077" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField77" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 78" id="40078" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField78" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 79" id="40079" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField79" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 80" id="40080" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField80" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 81" id="40081" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField81" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 82" id="40082" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField82" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 83" id="40083" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField83" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 84" id="40084" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField84" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 85" id="40085" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField85" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 86" id="40086" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField86" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 87" id="40087" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField87" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 88" id="40088" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField88" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 89" id="40089" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField89" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 90" id="40090" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField90" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 91" id="40091" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField91" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 92" id="40092" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField92" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 93" id="40093" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField93" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 94" id="40094" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField94" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 95" id="40095" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField95" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 96" id="40096" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField96" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 97" id="40097" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField97" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 98" id="40098" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField98" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 99" id="40099" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField99" category="1" displaytype="9000"/>
+ <Property name="Gebruiker extra veld 100" id="40100" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField100" category="1" displaytype="9000"/>
+</Properties>
