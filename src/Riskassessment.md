@@ -38,3 +38,10 @@ Mechanical risks:
 Collisions:
 Collisions are uninteded collisions between the robot-arm and personel or objects and can lead to damage on the robot-arm or the 3 external motors. Collisions are also a pontential risk to injury to personel. system delays could also be caused by collisions. To mitigate this risk several solutions could be inplemented. Colision detection sensor could be implemented these sensors detect unexpected obstacals and cause the robot to slowdown or if it makes contact with the object to come to a complete stop. another method is by using barriers to prevent personel from getting in the workzone of the robot, another example of this is a light screen these allow personel to enter the robots workrange but the robot will stop or slow down if entered.
 
+Pinching:
+Pinching occurs when a body part or objects unintentionally gets caught between the moving parts of the robot arm. Pinching can lead to injuries for personel when getting caught in the robot arm. Object could also be caught in the pinch points of the robot arm, this could cause potential product damage. To reduce this risk a emergency stop can be implemented, when this button is pressed the robot arm will stop moving. this will prevent further injury when being pinched by the robot arm. another method is by using barriers to prevent personel from getting in the workzone of the robot, another example of this is a light screen these allow personel to enter the robots workrange but the robot will stop or slow down if entered.
+
+Tool ejection from the IRB 1100
+Tool ejctions occur when the end-effector ejects out of the robot arm during the operations. it may cause injuries to the personel like being pierced by the end-effector. It may also cause component damage or parts damage. This risk can be reduced by conducting regular inspections of the tool. By setting up a screen by the assembely it prevents the tool from reaching personel that are standing around the assembly process.
+
+
