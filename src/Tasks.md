@@ -35,18 +35,18 @@ object Tasks_quartile_1 {
   <#lightblue,#black>|=  Tasks week 1.6:  |=  Who?  |
   <#white>| IO-list, PLC configuratie en setup gebouwd | Timon |
   <#white>| 3d Printing | Tim |
-  <#white>| | Matthijs |
+  <#white>| setup gebouwd en Solidworks | Matthijs |
   <#white>|  | Mika |
   <#lightblue,#black>|=  Tasks week 1.7:  |=  Who?  |
   <#white>| test setup afgebouwd en getest, bill of materials gemaakt | Timon |
   <#white>|  | Tim |
   <#white>|  | Mika |
-  <#white>|  | Matthijs |
+  <#white>| Connections motorstation geassembleerd| Matthijs |
   <#lightblue,#black>|=  Tasks week 1.8:  |=  Who?  |
   <#white>| bill of materials doorgestuurd en Eplan tekeningen gemaakt | Timon |
   <#white>|  | Tim |
   <#white>|  | Mika |
-  <#white>|  | Matthijs |
+  <#white>| Keuze verantwoording | Matthijs |
 }
 
 
