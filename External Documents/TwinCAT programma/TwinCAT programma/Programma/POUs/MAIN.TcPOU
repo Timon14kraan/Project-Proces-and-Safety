@@ -3,24 +3,166 @@
   <POU Name="MAIN" Id="{e493b041-1b59-4042-b6d4-9b1964072032}" SpecialFunc="None">
     <Declaration><![CDATA[PROGRAM MAIN
 VAR
-	ELSEIF: INT;
+	Step				: UINT := 0;
+	Timer_output				: TON;
+	Timer_motor					: TON;
 END_VAR
 ]]></Declaration>
     <Implementation>
-      <ST><![CDATA[IF gvl.sensor1 = TRUE THEN
-	gvl.motor1 := TRUE;
-END_IF
+      <ST><![CDATA[Timer_output ();
+Timer_motor ();
 
-IF gvl.sensor1 = FALSE THEN
-	gvl.motor1 := FALSE;
-END_IF]]></ST>
+CASE Step OF
+	0: // Startknop indrukken voor het beginnen van het systeem
+ 		IF gvl.Startknop = TRUE THEN 
+			Step 					  	:= 10;
+ 		END_IF;
+		 
+	10: // Signaal naar robot, controleren componenten en componenten in houders plaatsten.
+		gvl.RobotUit := TRUE;
+		Timer_output(IN:=TRUE, PT:=T#2S); // reset output.
+			
+		IF Timer_output.Q = TRUE THEN
+			Timer_output(IN:=FALSE);
+			gvl.RobotUit := FALSE;
+			Step 						:= 20;
+		END_IF
+	
+	20: // Robot heeft componenten gecontroleerd en alles is aanwezig. Motor 1 aanzetten.
+		IF gvl.IN_motor1 = TRUE THEN
+			gvl.Motor1 := TRUE;
+			Timer_motor (IN:=TRUE, PT:=T#10S); // tijd voor aandraaien onderdeel.
+			step 						:= 30;
+		END_IF
+		
+	30: // Wachten op montage		
+		IF Timer_motor.Q = TRUE THEN
+			Timer_motor (IN:=FALSE);
+			gvl.Motor1 := FALSE;
+			gvl.RobotUit := TRUE;
+			Timer_output(IN:=TRUE, PT:=T#2S); // reset output.
+			step						:= 40;
+		END_IF
+		
+			
+	40: // reseten output
+		IF Timer_output.Q = TRUE THEN
+			Timer_output(IN:=FALSE);
+			gvl.RobotUit := FALSE;
+			step 						:= 50;
+		END_IF
+			 
+
+	50: // Motor 2 aanzetten.
+		IF gvl.IN_motor1 = TRUE THEN
+			gvl.Motor1 := TRUE;
+			Timer_motor (IN:=TRUE, PT:=T#10S); // tijd voor aandraaien onderdeel.
+			step						:= 60;
+		END_IF;
+	
+	60: // Wachten op 2de monatge
+		IF Timer_motor.Q = TRUE THEN
+			Timer_motor (IN:=FALSE);
+			gvl.Motor1 := FALSE;
+			gvl.RobotUit := TRUE;
+			Timer_output(IN:=TRUE, PT:=T#2S); // reset output.
+			step						:=70;
+		END_IF
+		
+			
+	70: // resetten output
+			IF Timer_output.Q = TRUE THEN
+				Timer_output(IN:=FALSE);
+				gvl.RobotUit := FALSE;
+				step 					:= 80;
+			END_IF
+	
+	80: // Motor 3 aanzetten.
+		IF gvl.IN_motor1 = TRUE THEN
+			gvl.Motor1 := TRUE;
+			Timer_motor (IN:=TRUE, PT:=T#10S); // tijd voor aandraaien onderdeel.
+			step 						:= 90;
+		END_IF;
+	
+	90: // Wachten op 3de monatge		
+		IF Timer_motor.Q = TRUE THEN
+			Timer_motor (IN:=FALSE);
+			gvl.Motor1 := FALSE;
+			gvl.RobotUit := TRUE;
+			Timer_output(IN:=TRUE, PT:=T#2S); // reset output.
+			step						:=100;
+		END_IF
+		
+			
+	100: // reseten output
+		IF Timer_output.Q = TRUE THEN
+			Timer_output(IN:=FALSE);
+			gvl.RobotUit := FALSE;
+			step 						:= 110;
+		END_IF
+		
+	110: // Alles geassembleerd.
+		step 							:= 0;
+		
+			
+END_CASE]]></ST>
     </Implementation>
     <LineIds Name="MAIN">
-      <LineId Id="2" Count="0" />
-      <LineId Id="9" Count="1" />
-      <LineId Id="17" Count="0" />
-      <LineId Id="15" Count="0" />
-      <LineId Id="18" Count="1" />
+      <LineId Id="27" Count="0" />
+      <LineId Id="191" Count="0" />
+      <LineId Id="108" Count="0" />
+      <LineId Id="130" Count="0" />
+      <LineId Id="132" Count="0" />
+      <LineId Id="135" Count="0" />
+      <LineId Id="137" Count="0" />
+      <LineId Id="123" Count="0" />
+      <LineId Id="138" Count="0" />
+      <LineId Id="140" Count="0" />
+      <LineId Id="146" Count="0" />
+      <LineId Id="169" Count="0" />
+      <LineId Id="181" Count="0" />
+      <LineId Id="177" Count="3" />
+      <LineId Id="144" Count="0" />
+      <LineId Id="170" Count="0" />
+      <LineId Id="148" Count="0" />
+      <LineId Id="156" Count="0" />
+      <LineId Id="166" Count="0" />
+      <LineId Id="192" Count="0" />
+      <LineId Id="318" Count="2" />
+      <LineId Id="193" Count="2" />
+      <LineId Id="197" Count="0" />
+      <LineId Id="218" Count="0" />
+      <LineId Id="224" Count="0" />
+      <LineId Id="277" Count="0" />
+      <LineId Id="196" Count="0" />
+      <LineId Id="279" Count="0" />
+      <LineId Id="278" Count="0" />
+      <LineId Id="219" Count="0" />
+      <LineId Id="221" Count="2" />
+      <LineId Id="225" Count="0" />
+      <LineId Id="220" Count="0" />
+      <LineId Id="189" Count="0" />
+      <LineId Id="227" Count="0" />
+      <LineId Id="280" Count="3" />
+      <LineId Id="322" Count="0" />
+      <LineId Id="284" Count="0" />
+      <LineId Id="321" Count="0" />
+      <LineId Id="323" Count="0" />
+      <LineId Id="285" Count="13" />
+      <LineId Id="226" Count="0" />
+      <LineId Id="154" Count="0" />
+      <LineId Id="299" Count="3" />
+      <LineId Id="325" Count="0" />
+      <LineId Id="324" Count="0" />
+      <LineId Id="303" Count="0" />
+      <LineId Id="326" Count="0" />
+      <LineId Id="304" Count="13" />
+      <LineId Id="199" Count="0" />
+      <LineId Id="270" Count="1" />
+      <LineId Id="274" Count="0" />
+      <LineId Id="272" Count="0" />
+      <LineId Id="124" Count="0" />
+      <LineId Id="100" Count="0" />
     </LineIds>
   </POU>
 </TcPlcObject>

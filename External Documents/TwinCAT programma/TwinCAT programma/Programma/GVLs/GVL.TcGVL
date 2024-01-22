@@ -3,14 +3,17 @@
   <GVL Name="GVL" Id="{4fed740d-868b-443d-a2d4-9c2a286c4a2c}">
     <Declaration><![CDATA[{attribute 'qualified_only'}
 VAR_GLOBAL
-	sensor1 AT %I* :BOOL;
-	sensor2 AT %I* :BOOL;
-	sensor3 AT %I* :BOOL;
-	sensor4 AT %I* :BOOL;
-	
+	IN_motor1 AT %I* :BOOL;
+	IN_motor2 AT %I* :BOOL;
+	IN_motor3 AT %I* :BOOL;
+	Sensor4 AT %I* :BOOL; // wordt niet gebruikt
+	RobotIn AT %I* :BOOL;
+	Startknop AT %I* :BOOL;
+		
 	Motor1 AT %Q* :BOOL;
 	Motor2 AT %Q* :BOOL;
 	Motor3 AT %Q* :BOOL;
+	RobotUit AT %Q* :BOOL;
 	
 END_VAR]]></Declaration>
   </GVL>

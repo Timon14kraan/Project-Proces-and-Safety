@@ -18,25 +18,34 @@
 		</System>
 		<Plc>
 			<Project GUID="{32EF2A74-FEC7-4BF7-B79F-90F500BC222F}" Name="Programma" PrjFilePath="Programma\Programma.plcproj" TmcFilePath="Programma\Programma.tmc" ReloadTmc="true" AmsPort="851" FileArchiveSettings="#x000e" SymbolicMapping="true">
-				<Instance Id="#x08502000" TcSmClass="TComPlcObjDef" KeepUnrestoredLinks="2" TmcPath="Programma\Programma.tmc" TmcHash="{1818D4C1-BCA7-1BF0-B5AD-D6B7BE054C85}">
+				<Instance Id="#x08502000" TcSmClass="TComPlcObjDef" KeepUnrestoredLinks="2" TmcPath="Programma\Programma.tmc" TmcHash="{BD836529-26AC-C08A-825A-FD17930FFBB2}">
 					<Name>Programma Instance</Name>
 					<CLSID ClassFactory="TcPlc30">{08500001-0000-0000-F000-000000000064}</CLSID>
 					<Vars VarGrpType="1">
 						<Name>PlcTask Inputs</Name>
 						<Var>
-							<Name>GVL.sensor1</Name>
+							<Name>GVL.IN_motor1</Name>
 							<Type>BOOL</Type>
 						</Var>
 						<Var>
-							<Name>GVL.sensor2</Name>
+							<Name>GVL.IN_motor2</Name>
 							<Type>BOOL</Type>
 						</Var>
 						<Var>
-							<Name>GVL.sensor3</Name>
+							<Name>GVL.IN_motor3</Name>
 							<Type>BOOL</Type>
 						</Var>
 						<Var>
-							<Name>GVL.sensor4</Name>
+							<Name>GVL.Sensor4</Name>
+							<Comment><![CDATA[ wordt niet gebruikt]]></Comment>
+							<Type>BOOL</Type>
+						</Var>
+						<Var>
+							<Name>GVL.RobotIn</Name>
+							<Type>BOOL</Type>
+						</Var>
+						<Var>
+							<Name>GVL.Startknop</Name>
 							<Type>BOOL</Type>
 						</Var>
 					</Vars>
@@ -54,11 +63,24 @@
 							<Name>GVL.Motor3</Name>
 							<Type>BOOL</Type>
 						</Var>
+						<Var>
+							<Name>GVL.RobotUit</Name>
+							<Type>BOOL</Type>
+						</Var>
 					</Vars>
 					<UnrestoredVarLinks ImportTime="2023-12-21T11:08:33">
 						<OwnerA Name="InputDst" Prefix="TIPC^Programma^Programma Instance" Type="1">
 							<OwnerB Name="TIID^Device 2 (EtherCAT)^Term 1 (EK1100)^Term 2 (EL1008)">
 								<Link VarA="MAIN.sensor1" TypeA="BIT" InOutA="0" GuidA="{18071995-0000-0000-0000-000000000010}" VarB="Channel 3^Input" RestoreInfo="ANotFound"/>
+							</OwnerB>
+						</OwnerA>
+					</UnrestoredVarLinks>
+					<UnrestoredVarLinks ImportTime="2024-01-22T15:02:42">
+						<OwnerA Name="InputDst" Prefix="TIPC^Programma^Programma Instance" Type="1">
+							<OwnerB Name="TIID^Device 2 (EtherCAT)^Term 1 (EK1100)^Term 2 (EL1008)">
+								<Link VarA="GVL.Sensor1" TypeA="BOOL" InOutA="0" GuidA="{18071995-0000-0000-0000-000000000030}" VarB="Channel 1^Input" Size="1" RestoreInfo="ANotFound"/>
+								<Link VarA="GVL.Sensor2" TypeA="BOOL" InOutA="0" GuidA="{18071995-0000-0000-0000-000000000030}" VarB="Channel 2^Input" Size="1" RestoreInfo="ANotFound"/>
+								<Link VarA="GVL.Sensor3" TypeA="BOOL" InOutA="0" GuidA="{18071995-0000-0000-0000-000000000030}" VarB="Channel 3^Input" Size="1" RestoreInfo="ANotFound"/>
 							</OwnerB>
 						</OwnerA>
 					</UnrestoredVarLinks>
@@ -234,15 +256,18 @@
 		<MappingInfo Identifier="{00000000-2001-0850-0020-500810000403}" Id="#x02030010"/>
 		<OwnerA Name="TIPC^Programma^Programma Instance">
 			<OwnerB Name="TIID^Device 2 (EtherCAT)^Term 1 (EK1100)^Term 2 (EL1008)">
-				<Link VarA="PlcTask Inputs^GVL.sensor1" VarB="Channel 1^Input"/>
-				<Link VarA="PlcTask Inputs^GVL.sensor2" VarB="Channel 2^Input"/>
-				<Link VarA="PlcTask Inputs^GVL.sensor3" VarB="Channel 3^Input"/>
-				<Link VarA="PlcTask Inputs^GVL.sensor4" VarB="Channel 4^Input"/>
+				<Link VarA="PlcTask Inputs^GVL.IN_motor1" VarB="Channel 1^Input"/>
+				<Link VarA="PlcTask Inputs^GVL.IN_motor2" VarB="Channel 2^Input"/>
+				<Link VarA="PlcTask Inputs^GVL.IN_motor3" VarB="Channel 3^Input"/>
+				<Link VarA="PlcTask Inputs^GVL.RobotIn" VarB="Channel 5^Input"/>
+				<Link VarA="PlcTask Inputs^GVL.Sensor4" VarB="Channel 4^Input"/>
+				<Link VarA="PlcTask Inputs^GVL.Startknop" VarB="Channel 6^Input"/>
 			</OwnerB>
 			<OwnerB Name="TIID^Device 2 (EtherCAT)^Term 1 (EK1100)^Term 4 (EL2004)">
 				<Link VarA="PlcTask Outputs^GVL.Motor1" VarB="Channel 1^Output"/>
 				<Link VarA="PlcTask Outputs^GVL.Motor2" VarB="Channel 2^Output"/>
 				<Link VarA="PlcTask Outputs^GVL.Motor3" VarB="Channel 3^Output"/>
+				<Link VarA="PlcTask Outputs^GVL.RobotUit" VarB="Channel 4^Output"/>
 			</OwnerB>
 		</OwnerA>
 	</Mappings>
