@@ -1,4 +1,4 @@
-x# Bill of materials
+# Bill of materials
 
 ```plantuml
 @startuml
