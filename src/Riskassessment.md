@@ -1,21 +1,4 @@
 # Riskassessment
-Wat moet erin komen:
-- Wat zijn de gevaren aan de gehele opstelling?
-  - Vallen
-  - Lichaamsdeel erin
-  - scherpe delen
-  - Klemgevaar
-- Hoe kun je deze gevaren voorkomen/oplossen?
-  - veiligheidszones
-  - hekwerk
-  - magneet/sensoren
-  - drukknoppen
-  - lichtschermen
-  - noodstop
-  - 
-
-Zie Sick handleiding als voorbeeld
-
 Risk assessment
 This document provides a risk assessment for an automated coupling assembly system utilizing an ABB IRB 1100 robot and three 12-volt motors. The objective is to identify potential risks associated with electrical, mechanical, and software-related aspects and formulate appropriate safety measures. The aim is to ensure the safe and efficient operation of the system in industrial production environments.
 
@@ -33,7 +16,7 @@ Component failure:
 Unexpected failure of electrical components such as the robots motors can lead to system failure and unsafe conditions to mitigate this risk continuous monitoring whall be implemented
 
 
-Mechanical risks:
+Mechanical risks
 
 Collisions:
 Collisions are uninteded collisions between the robot-arm and personel or objects and can lead to damage on the robot-arm or the 3 external motors. Collisions are also a pontential risk to injury to personel. system delays could also be caused by collisions. To mitigate this risk several solutions could be inplemented. Colision detection sensor could be implemented these sensors detect unexpected obstacals and cause the robot to slowdown or if it makes contact with the object to come to a complete stop. another method is by using barriers to prevent personel from getting in the workzone of the robot, another example of this is a light screen these allow personel to enter the robots workrange but the robot will stop or slow down if entered.
