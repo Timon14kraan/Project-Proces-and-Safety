@@ -39,12 +39,12 @@ object Tasks_quartile_1 {
   <#white>|  | Mika |
   <#lightblue,#black>|=  Tasks week 1.7:  |=  Who?  |
   <#white>| test setup afgebouwd en getest, bill of materials gemaakt | Timon |
-  <#white>|  | Tim |
+  <#white>| Design gripper |  Tim |
   <#white>|  | Mika |
   <#white>| Connections motorstation geassembleerd| Matthijs |
   <#lightblue,#black>|=  Tasks week 1.8:  |=  Who?  |
   <#white>| bill of materials doorgestuurd en Eplan tekeningen gemaakt | Timon |
-  <#white>|  | Tim |
+  <#white>| Design and printing motormounts/ testing and fixing on plate |  Tim |
   <#white>|  | Mika |
   <#white>| Keuze verantwoording | Matthijs |
 }
@@ -53,12 +53,12 @@ object Tasks_quartile_1 {
 object Tasks_quartile_2 {
   <#lightblue,#black>|=  Tasks week 2.1:  |=  Who?  |
   <#white>| Made of electrical components and Beckhoff maps connected to the clamps | Timon |
-  <#white>|  | Tim |
+  <#white>| Redesigning the gripper and printing | Tim |
   <#white>|  | Mika |
   <#white>|  | Matthijs |
     <#lightblue,#black>|=  Tasks week 2.8:  |=  Who?  |
   <#white>| Made program for setup | Timon |
-  <#white>|  | Tim |
+  <#white>| Testing all made parts, printing/ designing part station/ programming robot | Tim |
   <#white>| Made risk assessments | Mika |  
   <#white>|  | Matthijs |
 }
